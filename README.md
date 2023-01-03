@@ -15,7 +15,7 @@ Programmers : [문제 이름].cpp<br>
 - 모든 커밋 메시지를 push해서 반영해줍니다. (`git push`)
 <br>
 
-## 😀 스터디 팀원
+## 스터디 팀원 😀
 yooniversal
 - Github : [https://github.com/yooniversal](https://github.com/yooniversal)
 - BOJ : [https://www.acmicpc.net/user/caritas1996](https://www.acmicpc.net/user/caritas1996)
